@@ -1,5 +1,6 @@
-# Dice-Game
-Pig Dice Game
+# Pig Dice Game
+
+**Pig Dice Game**
 
 The game is made up of two players.<br>
 In each turn, a player rolls the dice as many time as they wish and each roll of the dice gets added to the Round score.<br>
